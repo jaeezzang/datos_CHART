@@ -1,2 +1,5 @@
-Empleados,Trabajador Independiente,Empresario Empleador,Desempleado
-47,27,18,8
+tipo,cantidad
+Empleados,47
+Trabajador Independiente,27
+Empresario Empleador,18
+Desempleado,8
